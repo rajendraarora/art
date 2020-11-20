@@ -26940,23 +26940,15 @@
   .u-footer .u-sheet-1 {min-height: 36px}
   .u-footer .u-text-1 {width: 340px; margin-top: 49px; margin-bottom: 49px; margin-left: auto; margin-right: auto} }
 
+  /*Add custom CSS slider changes*/
   .u-section-2 .u-sheet-1 {min-height: 808px}
   .u-section-2 .u-gallery-1 {height: 688px; gap: 17px; grid-template-columns: repeat(3, auto); margin: 60px auto}
-  .u-section-2 .u-back-slide-1 {background-image: url("//images03.nicepage.io/a1389d7bc73adea1e1c1fb7e/6300291be8d356b88ec77a6e/pexels-photo-3006003.jpeg"); background-position: 50% 78.05%}
+  .u-section-2 .u-back-slide-1 {background-image: url("//art.rajendraarora.com/images/paint1.jpg"); background-position: 50% 78.05%}
   .u-section-2 .u-over-slide-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)); padding: 20px}
-  .u-section-2 .u-back-slide-2 {background-image: url("//images03.nicepage.io/a1389d7bc73adea1e1c1fb7e/4697ca9c085651e1b833b7c6/pexels-photo-3541389.jpeg"); background-position: 50% 50%}
+  .u-section-2 .u-back-slide-2 {background-image: url("//art.rajendraarora.com/images/paint2.jpg"); background-position: 50% 50%}
   .u-section-2 .u-over-slide-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)); padding: 20px}
-  .u-section-2 .u-back-slide-3 {background-image: url("//images03.nicepage.io/a1389d7bc73adea1e1c1fb7e/2f1a3125d5735c5fae777d26/pexels-photo-2823459.jpeg"); background-position: 50% 50%}
-  .u-section-2 .u-over-slide-3 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)); padding: 20px}
-  .u-section-2 .u-gallery-item-4 {box-shadow: 0 0 0 0 rgba(0,0,0,0)}
-  .u-section-2 .u-back-slide-4 {background-image: url("//images03.nicepage.io/a1389d7bc73adea1e1c1fb7e/c3da9eef93f251c98be4a77c/pexels-photo-1719641.jpeg"); background-position: 50% 50%}
-  .u-section-2 .u-over-slide-4 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)); transition-duration: 0.5s; padding: 20px}
-  .u-section-2 .u-gallery-item-5 {box-shadow: 0 0 0 0 rgba(0,0,0,0)}
-  .u-section-2 .u-back-slide-5 {background-image: url("//images03.nicepage.io/a1389d7bc73adea1e1c1fb7e/334c2d1ad56e55a6add2b2d6/pexels-photo-3916422.jpeg"); background-position: 50% 50%}
-  .u-section-2 .u-over-slide-5 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)); transition-duration: 0.5s; padding: 20px}
-  .u-section-2 .u-gallery-item-6 {box-shadow: 0 0 0 0 rgba(0,0,0,0)}
-  .u-section-2 .u-back-slide-6 {background-image: url("//images03.nicepage.io/a1389d7bc73adea1e1c1fb7e/323753a16fe7582eb1443667/pexels-photo-4099388.jpeg"); background-position: 50% 95.06%}
-  .u-section-2 .u-over-slide-6 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)); transition-duration: 0.5s; padding: 20px} 
+  
+
   @media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 687px}
   .u-section-2 .u-gallery-1 {height: 567px; margin-right: initial; margin-left: initial} }
   @media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 1098px}
