@@ -26942,7 +26942,7 @@
 
   /*Add custom CSS slider changes*/
   .u-section-2 .u-sheet-1 {min-height: 808px}
-  .u-section-2 .u-gallery-1 {height: 688px; gap: 17px; grid-template-columns: repeat(3, auto); margin: 60px auto}
+  .u-section-2 .u-gallery-1 {height: 2000px; gap: 17px; grid-template-columns: repeat(3, auto); margin: 60px auto}
   .u-section-2 .u-back-slide-1 {background-image: url("//art.rajendraarora.com/paint/paint1.jpg"); background-position: 50% 78.05%}
   .u-section-2 .u-over-slide-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)); padding: 20px}
   .u-section-2 .u-back-slide-2 {background-image: url("//art.rajendraarora.com/paint/paint2.jpg"); background-position: 50% 50%}
@@ -26994,10 +26994,10 @@
   
 
   @media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 687px}
-  .u-section-2 .u-gallery-1 {height: 567px; margin-right: initial; margin-left: initial} }
+  .u-section-2 .u-gallery-1 {height: 2000px; margin-right: initial; margin-left: initial} }
   @media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 1098px}
-  .u-section-2 .u-gallery-1 {height: 978px; grid-template-columns: repeat(2, auto); margin-right: initial; margin-left: initial} }
+  .u-section-2 .u-gallery-1 {height: 2000px; grid-template-columns: repeat(2, auto); margin-right: initial; margin-left: initial} }
   @media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 3053px}
-  .u-section-2 .u-gallery-1 {height: 2933px; grid-template-columns: repeat(1, auto); margin-right: initial; margin-left: initial} }
+  .u-section-2 .u-gallery-1 {height: 5000px; grid-template-columns: repeat(1, auto); margin-right: initial; margin-left: initial} }
   @media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 1967px}
-  .u-section-2 .u-gallery-1 {height: 1847px; margin-right: initial; margin-left: initial} }
+  .u-section-2 .u-gallery-1 {height: 4000px; margin-right: initial; margin-left: initial} }
